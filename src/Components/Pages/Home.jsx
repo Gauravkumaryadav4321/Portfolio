@@ -84,7 +84,7 @@ const Home = () => {
           transition={{ duration: 0.8 }}
         >
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 dark:text-white mb-8">
-            Gaurav Kumar Yadav
+            Gaurav kr. Yadav
           </h1>
 
           <div className="flex items-center justify-center md:justify-start gap-4 mb-6">
