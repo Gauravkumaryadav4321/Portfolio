@@ -68,7 +68,7 @@ const Experience = () => {
               whileHover={{ scale: 1.02 }}
               className="text-4xl md:text-5xl font-bold text-gray-800 dark:text-white mb-4"
             >
-              Project <span className="text-blue-600 dark:text-purple-400">Experience</span>
+              Work <span className="text-blue-600 dark:text-purple-400">Experience</span>
             </motion.h2>
             <div className="h-1 w-20 bg-blue-500 dark:bg-purple-500 mb-5"></div>
             <p className="text-lg text-gray-600 dark:text-gray-300">
@@ -93,23 +93,25 @@ const Experience = () => {
                 whileHover={{ x: 5 }}
               >
                 <FaLaptopCode className="text-blue-500 dark:text-purple-400 text-xl" />
-                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Major Projects</h3>
+                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Mern Stack Developer</h3>
               </motion.div>
               
               <motion.p 
                 className="text-blue-600 dark:text-purple-400 mb-4 font-medium"
                 whileHover={{ x: 3 }}
               >
-                2+ Complex Full-Stack Applications
+                Cetpa Infotech Pvt .Ltd .may2025-present
               </motion.p>
               
               <ul className="space-y-3 text-gray-700 dark:text-gray-300">
                 {[
-                  "Developed comprehensive full-stack applications using React.js, Node.js, and modern web technologies",
-                  "Built responsive user interfaces with Tailwind CSS and implemented smooth animations using Framer Motion",
-                  "Integrated RESTful APIs and implemented user authentication and authorization systems",
-                  "Deployed applications on platforms like Vercel and Netlify with proper CI/CD pipelines",
-                  "Collaborated with teams using Git/GitHub for version control and project management"
+                  "At CETPA Infotech, I am undergoing professional training as a Frontend & MERN Stack Developer, where I’m building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. The training emphasizes both frontend and backend development with real-world projects.",
+
+                   "On the frontend, I design and develop responsive, user-friendly interfaces using React.js, HTML, CSS, and JavaScript. I focus on clean UI/UX, state management using Redux, and integrating APIs for dynamic content rendering",
+
+                   "On the backend, I use Node.js and Express.js to build scalable server-side logic, and MongoDB to manage and store application data. I also learned to deploy live applications using Vercel and manage code using Git/GitHub.",
+
+                   "This hands-on experience has deepened my understanding of the full development lifecycle, enhanced my problem-solving skills, and prepared me to contribute effectively to professional software projects."
                 ].map((item, index) => (
                   <motion.li
                     key={index}
