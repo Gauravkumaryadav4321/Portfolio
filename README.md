@@ -45,7 +45,7 @@ I love solving complex challenges with clean UI and efficient logic — bringing
 
 ## 📫 Contact
 
-- 📧 Email: [gauravkumaryadav8953630485@gmail.com](mailto:tabishjaved2030@gmail.com)
+- 📧 Email: [gauravkumaryadav8953630485@gmail.com](mailto:gauravkumaryadav8953630485@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gaurav-kumar-yadav](https://www.linkedin.com/in/gaurav-kumar-yadav-30406a236/)
 - 💻 GitHub: [github.com/gauravkumaryadav4321](https://github.com/Gauravkumaryadav4321)
 
