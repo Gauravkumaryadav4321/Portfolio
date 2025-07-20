@@ -14,16 +14,16 @@ const projects = {
             status: 'LIVE',
             featured: true
         },
-        {
-            image: '/piclingo-screenshot.png',
-            title: 'PicLingo | LIVE Site available',
-            description: 'PicLingo is an AI-powered image caption recommendation system using CLIP for image and text understanding. It extracts feature vectors, computes cosine similarity, and ranks the most relevant captions. Ideal for content recommendation, image search, and automated tagging, PicLingo ensures efficient and accurate image-caption matching.',
-            sourcecode: 'https://github.com/tabish-27/PicLingo.git',
-            livelink: 'https://pic-lingo.vercel.app/',
-            teckstack: ["React", "Vite", "Node.js", "Express.js", "MongoDB", "CLIP AI", "Machine Learning", "Tailwind CSS"],
-            status: 'LIVE',
-            featured: true
-        },
+        // {
+        //     image: '/piclingo-screenshot.png',
+        //     title: 'PicLingo | LIVE Site available',
+        //     description: 'PicLingo is an AI-powered image caption recommendation system using CLIP for image and text understanding. It extracts feature vectors, computes cosine similarity, and ranks the most relevant captions. Ideal for content recommendation, image search, and automated tagging, PicLingo ensures efficient and accurate image-caption matching.',
+        //     sourcecode: 'https://github.com/tabish-27/PicLingo.git',
+        //     livelink: 'https://pic-lingo.vercel.app/',
+        //     teckstack: ["React", "Vite", "Node.js", "Express.js", "MongoDB", "CLIP AI", "Machine Learning", "Tailwind CSS"],
+        //     status: 'LIVE',
+        //     featured: true
+        // },
         {
             image: '/weatherapp.png',
             title: 'Weather App |LIVE Site Available',

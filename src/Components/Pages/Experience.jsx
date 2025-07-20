@@ -100,7 +100,7 @@ const Experience = () => {
                 className="text-blue-600 dark:text-purple-400 mb-4 font-medium"
                 whileHover={{ x: 3 }}
               >
-                Cetpa Infotech Pvt .Ltd .may2025-present
+                Cetpa Infotech Pvt .Ltd ,NOIDA  May 2025 - present
               </motion.p>
               
               <ul className="space-y-3 text-gray-700 dark:text-gray-300">
@@ -143,7 +143,7 @@ const Experience = () => {
                 whileHover={{ x: 5 }}
               >
                 <FaLightbulb className="text-blue-500 dark:text-purple-400 text-xl" />
-                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Mini Projects</h3>
+                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Projects Experience</h3>
               </motion.div>
               
               <motion.p 
