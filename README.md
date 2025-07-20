@@ -1,7 +1,7 @@
-# 💼 Tabish Javed — Portfolio
+# 💼 Gaurav Kumar Yadav — Portfolio
 
 Welcome to my personal portfolio website!  
-I'm a **Frontend Web Developer** dedicated to crafting seamless, user-friendly, and scalable digital experiences. This portfolio showcases my projects, skills, and journey as a developer.
+I'm a **Frontend & Mernstack Developer** dedicated to crafting seamless, user-friendly, and scalable digital experiences. This portfolio showcases my projects, skills, and journey as a developer.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a **Frontend Web Developer** dedicated to crafting seamless, user-friendly, 
 ---
 ## 🚀 About Me
 
-I'm Tabish Javed, a passionate developer and final year B.Tech CSE student at Dr. RMLAU. I specialize in developing responsive and intuitive web solutions using modern technologies like **React**, **Tailwind CSS**, **JavaScript**, and more.
+I'm Gaurav Kumar Yadav, a passionate developer and final year B.Tech CSE student at Dr. RMLAU. I specialize in developing responsive and intuitive web solutions using modern technologies like **React**, **Tailwind CSS**, **JavaScript**, and more.
 
 I love solving complex challenges with clean UI and efficient logic — bringing together creative design and powerful functionality.
 
