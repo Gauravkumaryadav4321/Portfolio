@@ -9,7 +9,7 @@ I'm a **Frontend & Mernstack Developer** dedicated to crafting seamless, user-fr
 
 ## 🌐 Live Portfolio
 
-🔗 [Visit My Live Portfolio](https://new-portfolio-lime-iota.vercel.app/)
+🔗 [Visit My Live Portfolio](https://portfolio-gaurav08.vercel.app/)
 
 ---
 ## 🚀 About Me
@@ -30,7 +30,7 @@ I love solving complex challenges with clean UI and efficient logic — bringing
 
 ## 📂 Projects
 
-### 🍕 [Food Zaika](https://github.com/tabish-27/Food-Zaika.git)
+<!-- ### 🍕 [Food Zaika](https://github.com/tabish-27/Food-Zaika.git)
 > A modern, responsive food delivery web application built with React and Tailwind CSS. Features include real-time search, dark/light theme toggle, cart management with Redux, location-based restaurant discovery, infinite scroll, and PWA support.
 
 ### 🎯 [PicLingo](https://github.com/tabish-27/PicLingo.git)
@@ -54,7 +54,7 @@ I love solving complex challenges with clean UI and efficient logic — bringing
 
 - 📧 Email: [tabishjaved2030@gmail.com](mailto:tabishjaved2030@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tabish-javed](https://www.linkedin.com/in/tabish-javed/)
-- 💻 GitHub: [github.com/tabish-27](https://github.com/tabish-27)
+- 💻 GitHub: [github.com/tabish-27](https://github.com/tabish-27) -->
 
 ---
 
