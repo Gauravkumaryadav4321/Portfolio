@@ -30,31 +30,34 @@ I love solving complex challenges with clean UI and efficient logic — bringing
 
 ## 📂 Projects
 
+<<<<<<< HEAD
 <!-- ### 🍕 [Food Zaika](https://github.com/tabish-27/Food-Zaika.git)
+=======
+### 🍕 
+>>>>>>> 5270ba1540b55819e8b04e4ea3c435ad610ad545
 > A modern, responsive food delivery web application built with React and Tailwind CSS. Features include real-time search, dark/light theme toggle, cart management with Redux, location-based restaurant discovery, infinite scroll, and PWA support.
 
-### 🎯 [PicLingo](https://github.com/tabish-27/PicLingo.git)
-> An innovative language learning application that uses visual storytelling and interactive exercises to help users learn new languages. Features include image-based vocabulary, pronunciation guides, progress tracking, and gamified learning experiences.
 
-### 💻 [CodeCompete](https://github.com/tabish-27/CP-Application-Frontend.git)
+
+### 💻 
 > An innovative web application designed for competitive programmers who want to improve their skills, compete with friends, and track their rankings. Features include topic-wise contests, local & global rankings, dedicated practice mode, custom groups, and exciting rewards.
 
 ---
 
-## 🔴 Live Project Links
-
-- 🌐 [Food Zaika Live](https://food-zaika.vercel.app/)
-- 🌐 [PicLingo Live](https://pic-lingo.vercel.app/)
-- 🌐 [CodeCompete Live](https://cp-application-frontend.vercel.app/)
-- 🌐 [Portfolio Live](https://tabish-portfolio.vercel.app/)
 
 ---
 
 ## 📫 Contact
 
+<<<<<<< HEAD
 - 📧 Email: [tabishjaved2030@gmail.com](mailto:tabishjaved2030@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tabish-javed](https://www.linkedin.com/in/tabish-javed/)
 - 💻 GitHub: [github.com/tabish-27](https://github.com/tabish-27) -->
+=======
+- 📧 Email: [gauravkumaryadav8953630485@gmail.com](mailto:gauravkumaryadav8953630485@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gaurav-kumar-yadav](https://www.linkedin.com/in/gaurav-kumar-yadav-30406a236/)
+- 💻 GitHub: [github.com/gauravkumaryadav4321](https://github.com/Gauravkumaryadav4321)
+>>>>>>> 5270ba1540b55819e8b04e4ea3c435ad610ad545
 
 ---
 
