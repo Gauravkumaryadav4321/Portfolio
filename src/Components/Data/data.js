@@ -4,16 +4,38 @@ import { Features } from "tailwindcss";
 
 const projects = {
     allProject: [
-        {
-            image: '/food-zaika-screenshot.png',
-            title: 'Food Zaika | LIVE Site available',
-            description: 'Food Zaika is a modern, responsive food delivery web application built with React and Tailwind CSS. Features include real-time search, dark/light theme toggle, cart management with Redux, location-based restaurant discovery, infinite scroll, and PWA support. Experience seamless food ordering with a beautiful UI and mobile-first design.',
-            sourcecode: 'https://github.com/tabish-27/Food-Zaika.git',
-            livelink: 'https://food-zaika.vercel.app/',
-            teckstack: ["React", "Tailwind CSS", "Redux Toolkit", "Vite"],
-            status: 'LIVE',
-            featured: true
-        },
+        // {
+        //     image: '/food-zaika-screenshot.png',
+        //     title: 'Food Zaika | LIVE Site available',
+        //     description: 'Food Zaika is a modern, responsive food delivery web application built with React and Tailwind CSS. Features include real-time search, dark/light theme toggle, cart management with Redux, location-based restaurant discovery, infinite scroll, and PWA support. Experience seamless food ordering with a beautiful UI and mobile-first design.',
+        //     sourcecode: 'https://github.com/tabish-27/Food-Zaika.git',
+        //     livelink: 'https://food-zaika.vercel.app/',
+        //     teckstack: ["React", "Tailwind CSS", "Redux Toolkit", "Vite"],
+        //     status: 'LIVE',
+        //     featured: true
+        // },
+       
+
+
+
+
+
+
+
+
+
+
+        
+       
+
+
+
+
+
+
+
+
+
         // {
         //     image: '/piclingo-screenshot.png',
         //     title: 'PicLingo | LIVE Site available',
