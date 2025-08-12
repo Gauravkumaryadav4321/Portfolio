@@ -42,7 +42,7 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "LinkedIn",
-       //url: "https://www.linkedin.com/in/tabish-javed/",
+       
       url:"https://www.linkedin.com/in/gaurav-kumar-yadav-30406a236/",
       
       icon: (
@@ -53,7 +53,7 @@ const Footer = () => {
     },
     {
       name: "GitHub",
-     // url: "https://github.com/tabish-27",
+    
      url: "https://github.com/Gauravkumaryadav4321",
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -67,8 +67,7 @@ const Footer = () => {
     },
     {
       name: "Email",
-      //url: "mailto:tabishjaved2030@gmail.com",
-      url: "mailto:gauravkumaryadav8953630485@gmail.com",
+      url:  "mailto:gauravkumaryadav8953630485@gmail.com",
       icon: (
         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
           <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
@@ -77,7 +76,7 @@ const Footer = () => {
     },
     {
       name: "LeetCode",
-     // url: "https://leetcode.com/u/Tabish_javed/",
+     
       url: "https://leetcode.com/u/Gauravkumaryadav/",
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
