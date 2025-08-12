@@ -84,7 +84,9 @@ const projects = {
             description: 'An interactive Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring an AI opponent for an engaging single-player experience. The AI is designed to make smart moves, providing a challenging gameplay environment for users. The game includes a clean and responsive interface, smooth animations, and real-time win/draw detection. Styled with CSS for visual appeal and powered by JavaScript for game logic, it offers a fun and competitive way to play Tic Tac Toe directly in the browser.',
             sourcecode: 'https://github.com/Gauravkumaryadav4321/to-do-list.git',
             livelink: 'https://gauravkumaryadav4321.github.io/to-do-list/',
-            teckstack: ["HTML", "CSS" ,"javascript"]
+            teckstack: ["HTML", "CSS" ,"javascript"],
+            status: 'live', 
+            featured: true 
         },
     ],
 }
