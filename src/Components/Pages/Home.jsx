@@ -132,8 +132,7 @@ const Home = () => {
 
           <div className="flex gap-4 justify-center md:justify-start">
             <motion.a
-             // href="https://drive.google.com/file/d/1eThAFXh88-SNcqv9mkan8izw6AHCNCVe/view?usp=drive_link"
-              href="https://drive.google.com/file/d/1ixTLgI8Yh0QrWSTwUfNf3-FtJzUN81Uf/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1MIAjkFIwkgxXxaEEmgw3gT6ENs58er96/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
