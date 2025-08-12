@@ -4,37 +4,17 @@ import { Features } from "tailwindcss";
 
 const projects = {
     allProject: [
-        // {
-        //     image: '/food-zaika-screenshot.png',
-        //     title: 'Food Zaika | LIVE Site available',
-        //     description: 'Food Zaika is a modern, responsive food delivery web application built with React and Tailwind CSS. Features include real-time search, dark/light theme toggle, cart management with Redux, location-based restaurant discovery, infinite scroll, and PWA support. Experience seamless food ordering with a beautiful UI and mobile-first design.',
-        //     sourcecode: 'https://github.com/tabish-27/Food-Zaika.git',
-        //     livelink: 'https://food-zaika.vercel.app/',
-        //     teckstack: ["React", "Tailwind CSS", "Redux Toolkit", "Vite"],
-        //     status: 'LIVE',
-        //     featured: true
-        // },
-       
-
-
-
-
-
-
-
-
-
-
-        
-       
-
-
-
-
-
-
-
-
+         {
+            image: '/gitprofileanalyzer.png',
+            title: 'Git Profile Analyzer | LIVE Site available',
+            description: 'The GitHub User Profile Analyzer is a sleek and powerful web application that takes a GitHub username as input and visualizes their public GitHub activity.',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/Git-Commit-Analyzer.git',
+             livelink: 'https://git-commit-analyzer.vercel.app/',
+             teckstack: ["React.js", "Tailwind CSS", "shadcn", "chart.js(for graph", "Github rest APIv3"],
+             status: 'LIVE',
+             featured: true
+        },
+    
 
         // {
         //     image: '/piclingo-screenshot.png',
@@ -56,43 +36,28 @@ const projects = {
             status: 'LIVE',
             featured: true
        },
-        // {
-        //     image:'/weatherapp.png',
-        //     title:'Weather App |LIVE Site Available',
-        //     description :'A responsive weather application that fetches real-time weather data for any location using a public weather API. It displays current conditions, temperature, humidity, and forecasts in a clean, user-friendly interface.',
-        //     sourcecode : 'https://github.com/Gauravkumaryadav4321/weatherapp.git',
-        //     livelink :'https://weatherapp-seven-delta.vercel.app/',
-        //     TechStack: ["Vite"," HTML"," CSS", "JavaScript (Fetch API)", "OpenWeatherMap API"],
-        //     status:'LIVE',
-        //     featured: true,
+       
+       {
 
-        // },
-
-
-
-
-
-        // {
-
-        //     image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412801/Screenshot_2024-11-12_124136_h5cubs.png',
-        //     title: 'Photo Storage | LIVE site available',
-        //     description: 'Developed PhotoStorage, a social photo storage app allowing users to securely upload, store, and browse images. Implemented real-time uploads, organized galleries, and social features with an intuitive, responsive interface for seamless browsing on desktop and mobile.',
-        //     sourcecode: 'https://github.com/a-nuj1/photo_storage',
-        //     livelink: 'https://photo-storage-azure.vercel.app/',
-        //     teckstack: ["React", "FireBase", "Tailwind CSS"],
-        //     status: 'live', 
-        //     featured: true 
-        // },
-        // {
-        //     image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412795/Screenshot_2024-11-12_101453_okigjh.png',
-        //     title: 'Student-Compass | Live Site N/A',
-        //     description: 'Developed a fullstack student-centric learning platform using MERN stack to help students track their learning progress and manage all course materials in onecentralized location',
-        //     sourcecode: 'https://github.com/a-nuj1/student_compass',
-        //     livelink: 'https://github.com/a-nuj1/page-not-found',
-        //     teckstack: ["JavaScript", "React","Redux","Chakra UI","Node.js","Express.js","MongoDB"],
-        //     // status: 'live', 
-        //     // featured: true 
-        // },
+            image: '/apnafood.png',
+            title: 'Apna Food APP| LIVE site available',
+            description: 'A modern food delivery application built using Next.js, React, and Tailwind CSS. The platform allows users to browse restaurants and explore detailed menus, add items to their cart, and securely authenticate their accounts. It features a smooth checkout process, fully responsive design for seamless use across devices, and a visually appealing, modern interface styled with Tailwind CSS for an engaging user experience.',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/apna-food-app.git',
+            livelink: 'https://apna-food-app-eight.vercel.app/',
+            teckstack: ["React", "Next.js", "Tailwind CSS","radix UI","icons-lucid React"],
+            status: 'live', 
+            featured: true 
+        },
+        {
+            image: '/streamhub.png',
+            title: 'STREAM HUB | Live Site available',
+            description: 'A modern streaming platform developed with Next.js 15, Tailwind CSS, TypeScript, and JavaScript, designed for high performance, responsive UI, and scalable architecture. The application leverages Next.js for fast rendering and SEO optimization, while Tailwind CSS ensures a sleek and adaptive design. Built with TypeScript and JavaScript for flexibility and maintainability, it follows a modular folder structure separating components, styles, and libraries for better organization. The platform is fully responsive, mobile-friendly, and easily configurable through next.config.mjs and postcss.config.mjs, ensuring smooth development and deployment workflows.',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/Stream-hubs.git',
+            livelink: 'https://stream-hubs-six.vercel.app/',
+            teckstack: ["Next.js", "Tailwind.css","javacript","Typescript","Radix UI","MongoDB"],
+            status: 'live', 
+            featured: true 
+        },
         // {
         //     image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412796/Screenshot_2024-11-12_172310_xrbqeh.png',
         //     title: 'Write-Space | LIVE Site available',
