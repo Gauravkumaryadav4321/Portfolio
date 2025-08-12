@@ -58,30 +58,34 @@ const projects = {
             status: 'live', 
             featured: true 
         },
-        // {
-        //     image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412796/Screenshot_2024-11-12_172310_xrbqeh.png',
-        //     title: 'Write-Space | LIVE Site available',
-        //     description: 'Developed Write-Space, a dynamic blog application featuring secure user authentication, rich text editing, and comprehensive post management. Enabled users to easily create, edit, and manage formatted posts with titles, images, and intuitive navigation',
-        //     sourcecode: 'https://github.com/a-nuj1/daily_article',
-        //     livelink: 'https://daily-article.vercel.app/',
-        //     teckstack: ["React", "Tailwind CSS", "Node.js", "Express.js", "Appwrite"]
-        // },
-        // {
-        //     image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412803/Screenshot_2024-11-12_131140_whwlu2.png',
-        //     title: 'Movie World | LIVE site available',
-        //     description: 'A simple React Page that fetch movies details from API and show it on card, users can search movies too.',
-        //     sourcecode: 'https://github.com/a-nuj1/netflix_clone',
-        //     livelink: 'https://netflix-clone-nu-henna.vercel.app/',
-        //     teckstack: ["ReactJs", "REST API", "Axios"]
-        // },
-        // {
-        //     image: 'https://static.vecteezy.com/system/resources/thumbnails/007/343/533/small/yellow-quiz-time-banner-with-comic-style-background-suitable-for-use-for-promotional-designs-vector.jpg',
-        //     title: 'Quiz-Time| LIVE',
-        //     description: 'Develop a dynamic quiz application that supports various question types, offering an interactive experience with real-time scoring and feedback. The goal was to create a versatile and user-friendly platform for assessments and learning.',
-        //     sourcecode: 'https://github.com/a-nuj1/quizFrontend',
-        //     livelink: 'https://quiz-frontend-mauve.vercel.app/',
-        //     teckstack: ["ReactJs", "REST API", "Node.js", "Express.js", "MongoDB"]
-        // },
+        {
+            image: '/currencyconvertor.png',
+            title: 'Currency Convertor | LIVE Site available',
+            description: 'A lightweight and responsive Currency Converter web application that allows users to convert an amount from one currency to another in real time. With a clean and minimal interface, the application ensures quick, accurate results and smooth performance. Designed for simplicity, it focuses on delivering a fast and distraction-free currency conversion experience across all devices.',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/Currency-Convertor.git',
+            livelink: 'https://currency-convertor-taupe-zeta.vercel.app/',
+            teckstack: ["React.js", "Tailwind CSS","vite"],
+            status: 'live', 
+            featured: true 
+         },
+        {
+            image: '/Mytodolist.png',
+            title: 'My Todo list | LIVE site available',
+            description: 'A simple yet functional MY To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks, helping them manage daily activities efficiently. The application features a clean, responsive interface, smooth interactions, and lightweight performance. Designed with pure JavaScript for functionality and styled with CSS for an intuitive user experience, it provides a seamless way to organize and track tasks without any complexity..',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/to-do-list.git',
+            livelink: 'https://gauravkumaryadav4321.github.io/to-do-list/',
+            teckstack: ["HTML", "CSS", "Javascript"],
+               status: 'live', 
+               featured: true 
+         },
+        {
+            image: '/tictactoe.png',
+            title: 'TIC TAC TOE AI| LIVE',
+            description: 'An interactive Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring an AI opponent for an engaging single-player experience. The AI is designed to make smart moves, providing a challenging gameplay environment for users. The game includes a clean and responsive interface, smooth animations, and real-time win/draw detection. Styled with CSS for visual appeal and powered by JavaScript for game logic, it offers a fun and competitive way to play Tic Tac Toe directly in the browser.',
+            sourcecode: 'https://github.com/Gauravkumaryadav4321/to-do-list.git',
+            livelink: 'https://gauravkumaryadav4321.github.io/to-do-list/',
+            teckstack: ["HTML", "CSS" ,"javascript"]
+        },
     ],
 }
 
