@@ -93,23 +93,23 @@ const Experience = () => {
                 whileHover={{ x: 5 }}
               >
                 <FaLaptopCode className="text-blue-500 dark:text-purple-400 text-xl" />
-                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Mern Stack Developer</h3>
+                <h3 className="text-xl font-bold text-gray-800 dark:text-white">Frontend Developer</h3>
               </motion.div>
               
               <motion.p 
                 className="text-blue-600 dark:text-purple-400 mb-4 font-medium"
                 whileHover={{ x: 3 }}
               >
-                Cetpa Infotech Pvt .Ltd ,NOIDA  May 2025 - present
+                Cetpa Infotech Pvt .Ltd ,NOIDA  February 2025 - present
               </motion.p>
               
               <ul className="space-y-3 text-gray-700 dark:text-gray-300">
                 {[
-                  "At CETPA Infotech, I am undergoing professional training as a Frontend & MERN Stack Developer, where I’m building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. The training emphasizes both frontend and backend development with real-world projects.",
+                  "Designed and developed responsive web pages using HTML, CSS, JavaScript, and React.js, focusing on creating user-friendly layouts and improving website performance across different devices and browsers.",
 
-                   "On the frontend, I design and develop responsive, user-friendly interfaces using React.js, HTML, CSS, and JavaScript. I focus on clean UI/UX, state management using Redux, and integrating APIs for dynamic content rendering",
+                   "Assisted in building and implementing dynamic UI components using React.js, ensuring better interactivity, seamless navigation, and enhanced user experience for the company’s live projects and client applications.",
 
-                   "On the backend, I use Node.js and Express.js to build scalable server-side logic, and MongoDB to manage and store application data. I also learned to deploy live applications using Vercel and manage code using Git/GitHub.",
+                   "Deployed multiple projects on Vercel, ensuring fast, reliable, and secure hosting with continuous integration, while maintaining proper version control using Git and GitHub for collaborative development.",
 
                    "This hands-on experience has deepened my understanding of the full development lifecycle, enhanced my problem-solving skills, and prepared me to contribute effectively to professional software projects."
                 ].map((item, index) => (
